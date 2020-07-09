@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working at @Shopyangu-engineering
+- 🔭 I’m currently working at [Shopyangu](https://github.com/Shopyangu-engineering)
 - 💬 Ask me about Python, Django
 - 📫 How to reach me: [mail](joe@shopyangu.com), [twitter](https://twitter.com/ngahu_nj)
 <!--
