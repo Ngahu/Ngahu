@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working at [Shopyangu](https://github.com/Shopyangu-engineering)
 - 💬 Ask me about Python, Django
-- 📫 How to reach me: [mail](joe@shopyangu.com), [twitter](https://twitter.com/ngahu_nj)
+- 📫 How to reach me: joe@shopyangu.com, [twitter](https://twitter.com/ngahu_nj)
 <!--
 **Ngahu/Ngahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
