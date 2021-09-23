@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Shopyangu](https://www.shopyangu.com/)
 
-- 🌱 I’m currently learning **Dart/Flutter**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://ngahu.shopyangu.com/](https://ngahu.shopyangu.com/)
 
