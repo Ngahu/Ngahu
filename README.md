@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngahu" alt="ngahu" /> </p>
 
-- 🔭 I’m currently working at [Shopyangu](https://www.shopyangu.com/)
+- 🔭 I’m currently working at [community phone](https://www.communityphone.org/)
 
 - 🌱 I’m currently learning **Kotlin**
 
