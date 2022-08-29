@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ngahu Nj</h1>
 <h3 align="center">A technology consultant based in Nairobi, Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngahu" alt="ngahu" /> </p>
 
-- 🔭 I’m currently working at [community phone](https://www.communityphone.org/)
+
+- 🔭 I'm working as a Tech & Software Craftsman to help scale business using technology. Currently working as a software engineer at [community phone](https://www.communityphone.org/) and [Shopyangu](https://www.shopyangu.com/)
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://ngahu.shopyangu.com/](https://ngahu.shopyangu.com/)
+- 👨‍💻 All of my projects are available at [https://ngahu.com/](https://ngahu.com/)
 
 - 📝 I regularly write articles on [https://blog.shopyangu.com/](https://blog.shopyangu.com/)
 
