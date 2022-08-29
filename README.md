@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I'm working as a Tech & Software Craftsman to help scale businesses using technology. Currently working as a software engineer at [community phone](https://www.communityphone.org/) and [Shopyangu](https://www.shopyangu.com/)
+- 🔭 I'm working as a Tech & Software Craftsman applying technology to create business outcomes and impact lives positively at [community phone](https://www.communityphone.org/) and [Shopyangu](https://www.shopyangu.com/)
 
 - 🌱 I’m currently learning **Kotlin**
 
